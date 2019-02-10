@@ -4,9 +4,9 @@ def roll_call_dwarves(names)# code an argument here
   end
 end
 
-def summon_captain_planet(veggies)# 
+def summon_captain_planet(veggies)#
   veggies
-  
+
 end
 
 def long_planeteer_calls# code an argument here
