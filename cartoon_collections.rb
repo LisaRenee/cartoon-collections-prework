@@ -15,11 +15,11 @@ def long_planeteer_calls(array)
   calls = array.select do |word|
     word.length > 4
   end # code an argument here
-  if calls.length = 0
+  if calls.length == 0
     false
   else
     true #
-  end  
+  end
 end
 
 def find_the_cheese# code an argument here
